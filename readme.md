@@ -31,11 +31,11 @@ I love building clean, interactive web applications and experimenting with moder
 
 ## 🚀 Featured Projects
 
-🔹 **Translator-AI** – AI-powered translation tool  
-🔹 **AI Code Review** – automated code review using AI  
-🔹 **2048 Mobile Game** – mobile version of the 2048 game  
+🔹 **Reverse Proxt** – A lightweight yet complete reverse proxy written in Go.
+🔹 ** FusionRT** – Modular Embedded Framework 
+🔹 **PYFactory** – Game in pygame inspired factorio
 🔹 **Weather API App** – weather application using external API  
-🔹 **Win11 Svelte** – Windows 11 inspired UI built with Svelte  
+🔹 **TechStack-detector-Plugin** – Plugin check used to technology in website
 
 👉 Check out all my projects here:  
 🔗 https://github.com/Xmausix
