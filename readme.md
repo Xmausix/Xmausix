@@ -31,7 +31,7 @@ I love building clean, interactive web applications and experimenting with moder
 
 ## 🚀 Featured Projects
 
-🔹 **Reverse Proxt** – A lightweight yet complete reverse proxy written in Go.
+🔹 **Reverse Proxy** – A lightweight yet complete reverse proxy written in Go.
 🔹 **FusionRT** – Modular Embedded Framework 
 🔹 **PYFactory** – Game in pygame inspired factorio
 🔹 **Weather-API-App** – weather application using external API  
