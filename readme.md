@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jakub (Xmausix)
 
-Frontend Developer from Poland 🇵🇱  
+Fullstack Developer from Poland 🇵🇱  
 I love building clean, interactive web applications and experimenting with modern technologies ✨
 
 ---
