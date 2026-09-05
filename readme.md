@@ -62,14 +62,15 @@ I love building clean, interactive web applications and experimenting with moder
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xmausix&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xmausix&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-- 🐙 GitHub: https://github.com/Xmausix  
-- 📧 Email: *dropmaze.biznes@gmail.com*  
+- 📧 Email: *dropmaze.biznes@gmail.com*
+  
 - 🌐 Portfolio: https://portfolioxmausix.pl/
 
 ---
