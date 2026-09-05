@@ -1,20 +1,21 @@
-# 👋 Hi, I'm Jakub (Xmausix)
+# Hi, I'm Jakub (Xmausix)
 
-Fullstack Developer from Poland 🇵🇱  
-I love building clean, interactive web applications and experimenting with modern technologies ✨
+Fullstack Developer from Poland.
 
----
-
-## 🧠 About Me
-
-- 💻 Focused on **Frontend Development**
-- ⚡ Interested in **AI tools**, **UI/UX**, and **performance**
-- 🚀 Always learning and improving my skills
-- 🎯 I enjoy turning ideas into real, working products
+I build clean, interactive web applications and enjoy working with modern technologies, exploring new tools, and turning ideas into real products.
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+* Focused on **Frontend Development**
+* Interested in **AI, UI/UX, and application performance**
+* Continuously learning and expanding my technical skills
+* Enjoy building products from idea to implementation
+* Interested in modern web technologies and developer tooling
+
+
+##  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -44,7 +45,7 @@ I love building clean, interactive web applications and experimenting with moder
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 🔹 **Reverse Proxy** – A lightweight yet complete reverse proxy written in Go.
 
@@ -55,7 +56,8 @@ I love building clean, interactive web applications and experimenting with moder
 🔹 **Weather-API-App** – weather application using external API  
 
 🔹 **TechStack-detector-Plugin** – Plugin check used to technology in website
-
+ 
+🔹 **RyzeSpace** – C2C server resource rental platform   https://ryzespace.com/ | https://github.com/ryzespace
 
 ---
 
