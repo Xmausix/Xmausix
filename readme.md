@@ -59,11 +59,18 @@ I love building clean, interactive web applications and experimenting with moder
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xmausix&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xmausix&layout=compact&theme=tokyonight)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Xmausix&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmausix&layout=compact&theme=tokyonight"
+    height="180"
+  />
+</p>
 
 ---
 
