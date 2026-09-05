@@ -51,10 +51,6 @@ I love building clean, interactive web applications and experimenting with moder
 🔹 **PYFactory** – Game in pygame inspired factorio
 🔹 **Weather-API-App** – weather application using external API  
 🔹 **TechStack-detector-Plugin** – Plugin check used to technology in website
-
-👉 Check out all my projects here:  
-🔗 https://github.com/Xmausix
-
 ---
 
 ## 📊 GitHub Stats
@@ -72,6 +68,4 @@ I love building clean, interactive web applications and experimenting with moder
 
 ---
 
-## ✨ Quote
 
-> Build things. Break things. Learn fast.
