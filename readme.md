@@ -48,15 +48,11 @@ I build clean, interactive web applications and enjoy working with modern techno
 ##  Featured Projects
 
 🔹 **Reverse Proxy** – A lightweight yet complete reverse proxy written in Go.
-
 🔹 **FusionRT** – Modular Embedded Framework 
-
 🔹 **PYFactory** – Game in pygame inspired factorio
-
 🔹 **Weather-API-App** – weather application using external API  
-
 🔹 **TechStack-detector-Plugin** – Plugin check used to technology in website
- 
+🔹 **CodeSprints** - A Many project rewrite and upgraded in vue with Tauri(optional)
 🔹 **RyzeSpace** – C2C server resource rental platform   https://ryzespace.com/ | https://github.com/ryzespace
 
 ---
