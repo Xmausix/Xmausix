@@ -53,8 +53,6 @@ I build clean, interactive web applications and enjoy working with modern techno
 
 🔹 **PYFactory** – Game in pygame inspired factorio
 
-🔹 **Weather-API-App** – weather application using external API 
-
 🔹 **TechStack-detector-Plugin** – Plugin check used to technology in website
 
 🔹 **CodeSprints** - A Many project rewrite and upgraded in vue with Tauri(optional) in one place ( organization ) https://github.com/CodeSprints
